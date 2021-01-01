@@ -1,5 +1,5 @@
 # PhotoBox
-Cloud storage System for photos. Built from scratch and backend running on the University of Manitoba Linux servers.
+Cloud storage System for photos where each user has a Quota of 10 photos and cannot see photos of other users unless they have a sharable link. Built from scratch and backend running on the University of Manitoba Linux servers.
 
 Application: https://mitul264.github.io/PhotoBox/index.html   
 Project Paper: https://github.com/Mitul264/PhotoBox/blob/main/ProjectPaper.pdf
