@@ -1,9 +1,8 @@
 # PhotoBox
-Cloud storage System for photos.  
-Application Prod: https://mitul264.github.io/PhotoBox/index.html   
-Project Paper: https://github.com/Mitul264/PhotoBox/blob/main/ProjectPaper.pdf
+Cloud storage System for photos. Built from scratch and backend running on Apache/2.4.6 at the University of Manitoba Linux servers.
 
-Built from scratch and backend running on a Linux server. 
+Application: https://mitul264.github.io/PhotoBox/index.html   
+Project Paper: https://github.com/Mitul264/PhotoBox/blob/main/ProjectPaper.pdf
 
 # Features
 * Basic Authentication
