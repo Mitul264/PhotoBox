@@ -5,7 +5,7 @@ Application: https://mitul264.github.io/PhotoBox/index.html
 Project Paper: https://github.com/Mitul264/PhotoBox/blob/main/ProjectPaper.pdf
 
 # Issues (Todo)
-* **Migrate to a cloud platform**  
+* **Migrate to a cloud platform and use HTTPS**
 * **Use a realtime database instead of .txt files**
 
 # Features
