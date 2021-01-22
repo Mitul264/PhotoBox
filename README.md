@@ -1,6 +1,10 @@
 # PhotoBox
 Cloud storage System for photos where each user has a Quota of 10 photos and cannot see photos of other users unless they have a sharable link. Built from scratch and backend running on the University of Manitoba Linux servers.
 
+# Issues (TODO)
+**Migrate to a cloud platform**  
+**Use a realtime database instead of .txt files**
+
 Application: https://mitul264.github.io/PhotoBox/index.html   
 Project Paper: https://github.com/Mitul264/PhotoBox/blob/main/ProjectPaper.pdf
 
